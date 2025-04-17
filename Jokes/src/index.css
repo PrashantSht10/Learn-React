@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: whitesmoke;
+}
+
+.container {
+  padding: 3px;
+  font-weight: bold;
+}
+
+.setup {
+  font-size: 2rem;   
+}
+
+.punchline {
+  font-size: 1.4rem;
+  font-weight: 400;
+  /* color: rgb(150, 170, 200); */
+}
+
+/* .punchline::before{
+  position: relative;
+  content: "->";
+  color: red;
+  font-size: 1.2rem;
+  margin-right: 0.3rem;
+} */
+
+
